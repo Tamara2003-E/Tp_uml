@@ -1,3 +1,3 @@
 public class Musee {
-    private string nom;
+    private String nom;
 }
